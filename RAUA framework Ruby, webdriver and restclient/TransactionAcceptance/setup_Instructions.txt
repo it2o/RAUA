@@ -1,0 +1,11 @@
+- Place both excel sheets in a specific directory and update the path in the script to point to that directory
+- Launch CMD or Terminal and Navitage to that folder and type the following commands 
+- gem install json
+- gem install roo
+- gem install rubyXL
+- gem install rest-cliet
+- gem install restforce
+- ruby transactionAcceptance.rb
+
+
+
